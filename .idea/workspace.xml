@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d614f0c7-9406-44cb-9c60-20fdc7472acd" name="Changes" comment="||" />
+    <list default="true" id="d614f0c7-9406-44cb-9c60-20fdc7472acd" name="Changes" comment="||">
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day8/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day8/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day8/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +73,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day8" />
       <recent name="day7" />
       <recent name="day6" />
     </key>
