@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d614f0c7-9406-44cb-9c60-20fdc7472acd" name="Changes" comment="||">
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/TestFigures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day9/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day10/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/day10/task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +58,7 @@
     "Application.Task5.executor": "Run",
     "Application.Task6.executor": "Run",
     "Application.TestFigures.executor": "Run",
+    "Application.task1.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
